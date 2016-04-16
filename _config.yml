@@ -1,0 +1,28 @@
+name: NeueWege
+favicon: null
+layout_spectrum: 0.2792734920512885
+typography_spectrum: 0.22244679322466254
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7173966681584716
+  lightness: 0.6383704938925803
+  saturation: 0.9489579922519624
+  rhythmicContrast: 0.6375910674687475
+purpose: []
